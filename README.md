@@ -37,7 +37,10 @@ Hi 👋 I'm Paulina
 ![npm](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/60px-Npm-logo.svg.png)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+<br>
+
 ## 📌 My areas:
+
 <br>
 
 ```geojson
