@@ -7,14 +7,20 @@ Hi 👋 I'm Paulina
 ![header_](https://user-images.githubusercontent.com/86908540/218116840-8eeb6a44-3350-49ad-9b7e-d9ab572ffa20.png)
 <br>
 
+ <div>
+ <img align='right' src="/.github/cat.gif" width="400" alt="cat">
+</div> 
+<br>
 <h4 align="center">
 ✌️ Enjoy to do programming and sharing knowledge
 <br>
 🌱 I am currently learning React/Redux and next will be Vue.js
 <br>
-
+<br>
+<br>
 
 ## 🔧 Technologies:
+<br>
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -30,6 +36,7 @@ Hi 👋 I'm Paulina
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![npm](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/60px-Npm-logo.svg.png)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 
 
