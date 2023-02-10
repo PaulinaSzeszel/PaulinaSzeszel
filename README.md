@@ -37,8 +37,35 @@ Hi 👋 I'm Paulina
 ![npm](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/60px-Npm-logo.svg.png)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## 📌 My areas:
+<br>
 
-
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [-5,55],
+              [-10,50],
+              [10,50],
+              [10,55],
+              [-5,55]
+          ] 
+        ]
+      }
+    }
+  ]
+}
+```
 
 
 
