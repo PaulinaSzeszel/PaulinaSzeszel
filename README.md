@@ -13,9 +13,10 @@ Hi 👋 I'm Paulina
 <br>
 <h4 align="center">
 ✌️ Enjoy to do programming and sharing knowledge
-<br>
+<br><br>
 🌱 I am currently learning React/Redux and next will be Vue.js
-<br>
+<br><br>
+📫 How to reach me paulina_szeszel@o2.pl
 <br>
 <br>
 
