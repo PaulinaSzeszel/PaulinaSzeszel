@@ -15,8 +15,7 @@ Hi 👋 I'm Paulina
 ✌️ Enjoy to do programming and sharing knowledge
 <br><br>
 📫 How to reach me paulina_szeszel@o2.pl
-<br>
-<br>
+
 
 ## 🔧 Technologies:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
