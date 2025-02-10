@@ -14,8 +14,6 @@ Hi 👋 I'm Paulina
 <h4 align="center">
 ✌️ Enjoy to do programming and sharing knowledge
 <br><br>
-🌱 I am currently learning React/Redux 
-<br><br>
 📫 How to reach me paulina_szeszel@o2.pl
 <br>
 <br>
@@ -32,10 +30,6 @@ Hi 👋 I'm Paulina
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![npm](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/60px-Npm-logo.svg.png)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-<br>
-
-```
 
 
 
