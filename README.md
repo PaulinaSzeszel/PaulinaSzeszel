@@ -18,6 +18,9 @@ Hi 👋 I'm Paulina
 
 <br>
 <br><br>
+<br><br>
+<br><br>
+<br><br>
 
 ## 🔧 Technologies:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
