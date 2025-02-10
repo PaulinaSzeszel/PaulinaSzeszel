@@ -35,35 +35,6 @@ Hi 👋 I'm Paulina
 
 <br>
 
-## 📌 My areas:
-
-<br>
-
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-              [-5,55],
-              [-10,50],
-              [10,50],
-              [10,55],
-              [-5,55]
-          ] 
-        ]
-      }
-    }
-  ]
-}
 ```
 
 
